@@ -1,0 +1,7 @@
+permutation_importance,feature
+0.31411411411411394,phcpf_amt_15d
+0.24734734734734776,phd_amt_30d
+0.004604604604604878,dml_popular_apps_count
+0.001201201201201263,vop_ratio_qty_7d_30d
+0.0011011011011015093,ph_avg_amount_7d
+0.00040040040040034697,rem_is_missing
