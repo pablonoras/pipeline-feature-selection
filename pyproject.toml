@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pipeline-feature-selection"
+version = "0.1.0"
+description = ""
+authors = ["pablonoras <pablonoras@gmail.com>"]
+readme = "README.md"
+packages = [{include = "pipeline_feature_selection"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
